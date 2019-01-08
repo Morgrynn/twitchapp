@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "another ",
+      "description": "test",
+      "userId": "107151304025801629084",
+      "id": 3
+    },
+    {
+      "title": "Game Title",
+      "description": "Awesome Game",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "This is a quick test ",
+      "description": "Check if this is a live feed? And I checked! it works.",
+      "userId": "107151304025801629084",
+      "id": 5
+    }
+  ]
+}
